@@ -22,3 +22,11 @@ body {
 .features-container {}
 
 .favorites-container {}
+
+/*Jumbotron*/
+
+.jumbotron-header {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
