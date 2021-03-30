@@ -86,3 +86,11 @@ body {
     background-color: #f05f40;
     border-color: #f05f40;
 }
+
+.btn--red:hover,
+.btn--red:active,
+.btn--red:focus,
+.btn--red:active:focus {
+    background-color: #6b1200;
+    border-color: #6b1200;
+}
