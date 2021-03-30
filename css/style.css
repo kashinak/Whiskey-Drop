@@ -68,6 +68,9 @@ body {
     background-color: rgba(0,0,0,0.25);
 }
 
+.navbar .navbar-toggler {
+    border: 0;
+}
 
 /*Jumbotron*/
 
