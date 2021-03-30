@@ -76,6 +76,10 @@ body {
     font-weight: bold;
 }
 
+.navbar .navbar-nav a {
+    font-weight: bold;
+}
+
 /*Jumbotron*/
 
 .jumbotron {
