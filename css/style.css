@@ -83,6 +83,10 @@ body {
     background-color: #bd4803;
 }
 
+.block-divider--white {
+    background-color: white;
+}
+
 .block-divider--short {
     width: 35px;
 }
