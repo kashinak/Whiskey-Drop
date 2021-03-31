@@ -7,6 +7,12 @@ body {
     padding-right: 0;
 }
 
+.site-wide-alert {
+    border-radius: 0;
+    margin-bottom: 0;
+    padding: 5px 15px;
+}
+
 .callout-container {
     height: 100vh;
     background: url("../images/whiskey-background.jpeg") no-repeat bottom right fixed; 
