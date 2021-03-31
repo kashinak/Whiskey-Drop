@@ -68,11 +68,18 @@ body {
 }
 
 .block-divider--orange {
-     background-color: #bd4803;
+    background-color: #bd4803;
 }
 
 .block-divider--short {
     width: 35px;
+}
+
+/* Content containers */
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 
 /* Navbar */
