@@ -11,6 +11,8 @@ body {
     border-radius: 0;
     margin-bottom: 0;
     padding: 5px 15px;
+    background-color: #fbba09;
+    border-color: #fbba09;
 }
 
 .callout-container {
