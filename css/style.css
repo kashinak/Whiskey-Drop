@@ -105,6 +105,10 @@ body {
 
 /* Buttons */
 
+.btn {
+    font-size: .89rem; 
+}
+
 .btn--cta {
     font-weight: bold;
     border-radius: 23px;
