@@ -9,6 +9,11 @@ body {
     color: white;
 }
 
+.container-wrapper--brown {
+    background-color: #71291b;
+    color: white;
+}
+
 .alert-container .col-12 {
     padding-left: 0;
     padding-right: 0;
