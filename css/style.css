@@ -175,3 +175,8 @@ body {
     border-color: #6b1200;
     color: white;
 }
+
+.feature {
+    text-align: center;
+    margin-bottom: 40px;
+}
