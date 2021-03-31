@@ -13,6 +13,7 @@ body {
     padding: 5px 15px;
     background-color: #fbba09;
     border-color: #fbba09;
+    border: 1px solid transparent;
 }
 
 .callout-container {
@@ -51,6 +52,7 @@ body {
     width: 75px;
     height: 5px;
     border: 0;
+    background-color: #444;
 }
 
 .block-divider--orange {
@@ -83,7 +85,7 @@ body {
     border: 0;
 }
 
-.navbar-brand {
+.navbar .navbar-brand {
     font-weight: bold;
 }
 
@@ -101,6 +103,7 @@ body {
     color: white;
     font-weight: bold;
     margin-bottom: 30px;
+    color: white;
 }
 
 .jumbotron .lead {
@@ -116,20 +119,19 @@ body {
 
 /* Buttons */
 
-.btn {
-    font-size: .89rem; 
-}
+
 
 .btn--cta {
     font-weight: bold;
     border-radius: 23px;
-    width: 160px;
+    width: 182px; 
 }
 
 .btn--red {
     color: white;
     background-color: #f05f40;
     border-color: #f05f40;
+    
 }
 
 .btn--red:hover,
@@ -138,4 +140,5 @@ body {
 .btn--red:active:focus {
     background-color: #6b1200;
     border-color: #6b1200;
+    color: white;
 }
